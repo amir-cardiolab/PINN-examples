@@ -50,6 +50,9 @@ https://www.youtube.com/watch?v=iy4PIeW91_I&t=2363s&ab_channel=MLPS-CombiningAIa
 Perdikaris (PINN overview and challenges):\
 https://www.youtube.com/watch?v=68MtA0L9ZAI&t=3327s&ab_channel=TexasA%26MInstituteofDataScience
 
+Wang (superresolution with PINN):\
+https://www.youtube.com/watch?v=xMimSG4NBT0&t=1s&ab_channel=JianxunWang
+
 Arzani (identifyng wall shear stress from sparse data with PINN):\
 https://www.youtube.com/watch?v=rK-Bb6-0svs&ab_channel=AmirhosseinArzani
 
