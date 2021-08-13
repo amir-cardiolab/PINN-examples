@@ -18,7 +18,38 @@ The data needed for the 2D stenosis model are located here:
 
 https://github.com/amir-cardiolab/PINN-wss/tree/main/Data/2D-stenosis
 
-%%%%%%%%%%%%%%%%%%%
+Need to install visualization toolkint (vtk) libraries to read the input data:
+
+conda activate pytorch \
+pip install vtk
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% \
+Inverse modeling using PINN: 
+
+See:
+https://github.com/amir-cardiolab/PINN-wss
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% \
+Useful seminars about PINNs:
+
+Karniadakis (PINN overview):\
+https://www.youtube.com/watch?v=FQ0vsqU-K00&list=PLw74xLHy0_j8DXxAKb15DbgtNvUOeTPbZ&index=2&ab_channel=MSML2020Conference
+
+Lu (solving PDEs with PINN):\
+https://www.youtube.com/watch?v=Wfgr1pMA9fY&list=PLw74xLHy0_j8DXxAKb15DbgtNvUOeTPbZ&index=4&t=1879s&ab_channel=MLPS-CombiningAIandMLwithPhysicsSciences
+
+Karniadakis (PINN overview and various applications):\
+https://www.youtube.com/watch?v=7kCq2uQmQU4&list=PLw74xLHy0_j8DXxAKb15DbgtNvUOeTPbZ&index=27&t=3s&ab_channel=CambridgeUniversityPress-Academic
+
+Raissi (inverse modeling with PINN;  SECOND HALF OF THE TALK):\
+https://www.youtube.com/watch?v=iy4PIeW91_I&t=2363s&ab_channel=MLPS-CombiningAIandMLwithPhysicsSciences
+
+Perdikaris (PINN overview and challenges):\
+https://www.youtube.com/watch?v=68MtA0L9ZAI&t=3327s&ab_channel=TexasA%26MInstituteofDataScience
+
+Arzani (identifyng wall shear stress from sparse data with PINN):\
+https://www.youtube.com/watch?v=rK-Bb6-0svs&ab_channel=AmirhosseinArzani
+
 
 
 
