@@ -6,6 +6,9 @@ Pytorch_NN_example:
 
 Linear and nonlinear regression examples with a neural network implemented in Pytorch.
 
+An excellent detailed intro to neural networks with Pytorch:
+https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% \
 Pytorch_PINN: 
 
